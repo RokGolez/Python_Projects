@@ -8,7 +8,7 @@ This section includes individual folders for each Python project, containing:
 
 - Python script files (.py) with comments explaining the code.
 - Any Jupyter Notebooks (.ipynb) demonstrating the analysis workflow.
--`README.md` file summarizing the project, including its goals, the Python libraries used, and the outcomes.
+- `README.md` file summarizing the project, including its goals, the Python libraries used, and the outcomes.
 
 ## Exploring the Projects
 
